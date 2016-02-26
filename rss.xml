@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[run2gether]]></title>
         <description><![CDATA[run2gether]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/run2gether/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 17:59:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 18:03:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/run2gether/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Aufgrund der Tatsache, dass die Verträge mit kenianischen Läufern immer nur für ein Jahr abgeschlossen werden dürfen, kommt es Jahr für Jahr zu kleineren Veränderungen auch in unserem Team. Zwar ist es unser großes Anliegen Läufer vom Jugendalter Schritt für Schritt an die Spitze zu führen und wenn möglich bis zum Ende ihrer Karriere und darüber hinaus im Rahmen des Projektes run2gether zu beschäftigen, dennoch entscheiden sich immer wieder Athleten dazu unser Team zu verlassen. Meist sind es jene, die in die internationale Spitze vorgestoßen sind bzw. kurz davor stehen und teils lukrativen Angeboten von anderen Managern nicht widerstehen können. Oft sind diese Offerte jedoch nur kurzfristig die finanziell attraktivere Lösung und bald stellt sich auch Ernüchterung ein und zahlreiche Läufer haben danach wieder bei uns angeklopft. Wir versuchen in Zusammenarbeit mit unseren Sponsoren unser Bestmögliches um auch die Topläufer zu halten, leider gelingt es nicht immer. Umso mehr freuen wir uns aber natürlich, wenn Athleten wie Viola JELAGAT, Benard Kiplangat BETT oder Lucy Wambui MURIGI um nur 3 Beispiele zu nennen trotz absoluter Spitzenklasse unserem Team die Treue halten. Für die Saison 2016 gab es im Team recht große Veränderungen, die wir Euch hier zusammenfassen möchten. Ein Dank an dieser Stelle an die scheidenden Läufer und ein herzliches Willkommen an unsere Zugänge!</p>]]></description>
-            <link>undefined5d78caad-a953-4a80-9dec-9b8b0df621f7/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8c946e0-aecf-4cf8-aeb5-e0987407aa70.jpg">]]></description>
+            <link>https://thegrid.ai/run2gether/5d78caad-a953-4a80-9dec-9b8b0df621f7/index.html</link>
             <guid isPermaLink="false">5d78caad-a953-4a80-9dec-9b8b0df621f7</guid>
-            <pubDate>Fri, 26 Feb 2016 17:58:53 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2016 17:59:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
