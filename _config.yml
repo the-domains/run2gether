@@ -2,6 +2,7 @@ name: run2gether
 favicon: null
 layout_spectrum: 0.75024
 typography_spectrum: 0.15671
+title: Home
 cta:
   domain: null
   bucket: null
